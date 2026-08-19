@@ -3,3 +3,15 @@ use clerk in front end or user login and signin form
 using clerk webhooks for storing userdata in database that we get from clerk
 
 versel json is used to config vercel for deployment
+
+
+webhooks need deploy link for user data 
+
+steps for using clerk webhooks (svix package is required for this)
+1- Deploy project in vercel and copy link
+2 - go to clerk dashboard and to the project on which clerk is added 
+3 go to configure search webhook 
+4 paste link 
+5 scroll down events selected desired event here we select user event
+6 click create
+7 copy signing secret and paste in .event
