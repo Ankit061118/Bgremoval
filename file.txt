@@ -1,3 +1,5 @@
 use clerk in front end or user login and signin form 
 
 using clerk webhooks for storing userdata in database that we get from clerk
+
+versel json is used to config vercel for deployment
