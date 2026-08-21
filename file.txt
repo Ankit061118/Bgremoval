@@ -15,3 +15,9 @@ steps for using clerk webhooks (svix package is required for this)
 5 scroll down events selected desired event here we select user event
 6 click create
 7 copy signing secret and paste in .event
+
+
+for authorization clerk - session - customize session token - {"clerkId":{{userId}}}
+                                                                 in model is clerkId but in clerk it is userId
+                                         save
+                                                                  
