@@ -33,3 +33,4 @@ for authorization clerk - session - customize session token - {"clerkId":{{userI
                                                                  in model is clerkId but in clerk it is userId
                                          save
                                                                   
+razor pay is also used for payment integration
