@@ -30,6 +30,6 @@ steps for using clerk webhooks (svix package is required for this)
 
 
 for authorization clerk - session - customize session token - {"clerkId":{{userId}}}
-                                                                 in model is clerkId but in clerk it is userId
+                                                                 in model it is clerkId but in clerk it is userId
                                          save
                                                                   
